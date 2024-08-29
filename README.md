@@ -83,7 +83,6 @@ O corpo do lançaddor foi impresso em PLA em uma impressora Creative Ender 3 e f
 
 ## Vídeo Explicativo
 
-
 https://github.com/Lui831/Dart-Cannon/assets/81604963/2cd243e0-ed82-4f9d-b0a3-4bb92a8a0a49
 
 
